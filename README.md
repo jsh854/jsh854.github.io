@@ -58,7 +58,7 @@ overflow:none;}
 <div class="container" id="one">
 <nav class="navbar navbar-default navbar-fixed-top">
 <img src="Salu Whatsapp 20170509_225241.jpg" height="90px" width="120px" id="pic"/>
-<a href="kashmir.github.io"><button class="btn btn-primary">Home</button>
+<a href="jsh854.github.io"><button class="btn btn-primary">Home</button>
 <a href="new 1.html"><button class="btn btn-primary">Downloads</button></a>
 <button class="btn btn-danger">Login</button> </nav> </div>
 <div class="container" id="cont">

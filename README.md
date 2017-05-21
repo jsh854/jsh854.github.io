@@ -63,16 +63,15 @@ overflow:none;}
 <div class="container" id="cont">
 <img src="Salu Whatsapp 20170509_225241.jpg" height="120px" width="120px" id="pix"/>
 <p><h1>Chinar kashmir</h1>is a new name of Music in kashmir.
-The Brand has been developed by Two youngsters namely <h4>Sheikh Salman</h4>
-and <h4>Shoaib kadla</h4>.
-They both have learned extremely fast and are growing with their beautiful and amazing production.
-Sheikh salman has a bit of music background . He started in 2013 as a guitarist soon gasped hold of it and mastered .
-Where as Shoaib was much in photography.</br>.
+The Brand has been developed by Two youngsters namely <h3>Sheikh Salman</h3>
+and <b>Shoaib kadla</b>.
+They are extremely passionate about Music Espetially EDM.
+There journey started about 2 months back..
 <a href="http://www.fb.com/chinarkashmir"><i class="fa fa-facebook"></i></a>
 <a href="http://www.instagram.com/chinarkashmir"><i class="fa fa-instagram"></i></a>
 <a href=""><i class="fa fa-google-plus"></i></a>
 <a href=""><i class="fa fa-youtube"></i></a>
-</p></div>
+</div>
 <div id="slideshow">
 <img src="k2.jpg" id="chinar" height="600px" width="1000px"/>
 </div>

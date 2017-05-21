@@ -50,6 +50,16 @@ border-radius:100px;}
 #form{
 margin-left:450px;
 overflow:none;}
+form{
+background:black;
+color:white;
+margin-top:600px;
+margin-right:250px;
+border-radius:7px;
+text-align:center;}
+form a{
+font-size:30px;
+padding:8px;}
 </style>
 </head>
 <body>
@@ -63,22 +73,28 @@ overflow:none;}
 <div class="container" id="cont">
 <img src="Salu Whatsapp 20170509_225241.jpg" height="120px" width="120px" id="pix"/>
 <p><h1>Chinar kashmir</h1>is a new name of Music in kashmir.
-The Brand has been developed by Two youngsters namely <h3>Sheikh Salman</h3>
-and <b>Shoaib kadla</b>.
-They are extremely passionate about Music Espetially EDM.
-There journey started about 2 months back..
-you can Follow them here.
-<a href="http://www.fb.com/chinarkashmir"><i class="fa fa-facebook"></i></a>
-<a href="http://www.instagram.com/chinarkashmir"><i class="fa fa-instagram"></i></a>
+The Brand has been developed by Two youngsters namely <b>Sheikh Salman</b> and <b>Shoaib kadla</b>
+They are extremely passionate about Music Especially EDM.
+You can also follow them here.
+<a href=""><i class="fa fa-facebook"></i></a>
+<a href=""><i class="fa fa-instagram"></i></a>
 <a href=""><i class="fa fa-google-plus"></i></a>
 <a href=""><i class="fa fa-youtube"></i></a>
 </div>
 <div id="slideshow">
-<img src="k2.jpg" id="chinar" height="600px" width="1000px"/>
+<img src="k2.jpg" id="chinar" height="400px" width="1000px"/>
 </div>
+<u></u>
+</div>
+<div id="form">
+<form>
+<h2>subscribe to our latest uploads</h2>
+<a href=""><i class="fa fa-facebook"></i></a>
+<a href=""><i class="fa fa-instagram"></i></a>
+</form>
 </div>
 <div id="footer">
-<h3>follow us</h3>
+<h3><b>follow us<b></h3>
 <a href="www.facebook.com/chinarkashmir"><i class="fa fa-facebook fa-md"></i>www.fb.com/chinarkashmir</a>
 <a href="www.instagram.com/chinarlashmir"><i class="fa fa-instagram"></i>www.instagram.com/chinarkashmir</a>
 <a href="www.youtube.com/chinarkashmir"><i class="fa fa-youtube"></i>www.youtube.com/chinarkashmir</a>

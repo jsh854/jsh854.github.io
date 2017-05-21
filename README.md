@@ -1,4 +1,3 @@
-# kashmir.github.io
 <!doctype html>
 <html lang="en">
 <meta charset="UTF-8">
@@ -58,9 +57,9 @@ overflow:none;}
 <div class="container" id="one">
 <nav class="navbar navbar-default navbar-fixed-top">
 <img src="Salu Whatsapp 20170509_225241.jpg" height="90px" width="120px" id="pic"/>
-<a href="jsh854.github.io"><button class="btn btn-primary">Home</button>
+<a href="jsh854.github.io"><button class="btn btn-primary">Home</button></a>
 <a href="new 1.html"><button class="btn btn-primary">Downloads</button></a>
-<button class="btn btn-danger">Login</button> </nav> </div>
+</nav></div>
 <div class="container" id="cont">
 <img src="Salu Whatsapp 20170509_225241.jpg" height="120px" width="120px" id="pix"/>
 <p><h1>Chinar kashmir</h1>is a new name of Music in kashmir.
@@ -69,12 +68,11 @@ and <h4>Shoaib kadla</h4>.
 They both have learned extremely fast and are growing with their beautiful and amazing production.
 Sheikh salman has a bit of music background . He started in 2013 as a guitarist soon gasped hold of it and mastered .
 Where as Shoaib was much in photography.</br>.
-<a href="https://www.facebook.com/chinarkashmir"><i class="fa fa-facebook"></i></a>
-<a href="https://www.instagram.com/chinarkashmir"><i class="fa fa-instagram"></i></a>
+<a href="http://www.fb.com/chinarkashmir"><i class="fa fa-facebook"></i></a>
+<a href="http://www.instagram.com/chinarkashmir"><i class="fa fa-instagram"></i></a>
 <a href=""><i class="fa fa-google-plus"></i></a>
-<a href="https://www.youtube.com/chinarkashmir"><i class="fa fa-youtube"></i></a>
-</p>
-</div>
+<a href=""><i class="fa fa-youtube"></i></a>
+</p></div>
 <div id="slideshow">
 <img src="k2.jpg" id="chinar" height="600px" width="1000px"/>
 </div>
@@ -87,12 +85,11 @@ Where as Shoaib was much in photography.</br>.
 </form>
 </div>
 <div id="footer">
-<h3>follow us</h3>
-<a href="https://www.facebook.com/chinarkashmir"><i class="fa fa-facebook fa-md"></i>www.fb.com/chinarkashmir</a>
-<a href="https://www.instagram.com/chinarlashmir"><i class="fa fa-instagram"></i>www.instagram.com/chinarkashmir</a>
-<a href="https://www.youtube.com/chinarkashmir"><i class="fa fa-youtube"></i>www.youtube.com/chinarkashmir</a>
+<h3><b>follow us<b></h3>
+<a href="www.facebook.com/chinarkashmir"><i class="fa fa-facebook fa-md"></i>www.fb.com/chinarkashmir</a>
+<a href="www.instagram.com/chinarlashmir"><i class="fa fa-instagram"></i>www.instagram.com/chinarkashmir</a>
+<a href="www.youtube.com/chinarkashmir"><i class="fa fa-youtube"></i>www.youtube.com/chinarkashmir</a>
 </div>
 <script src="chinar.js"></script>
 </body>
 </html>
-

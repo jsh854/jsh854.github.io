@@ -1,0 +1,47 @@
+.jumbotron{
+background:black;
+color:white;
+-webkit-border-radius:8px;
+margin-top:70px;
+height:400px;
+}
+.container h3{
+text-align:center;
+color:white;}
+#search{
+	margin-left:700px;
+-webkit-border-radius:10px;}
+.img{
+padding:0px 20px 40px 20px;}
+.form-inline{
+-webkit-border-radius:9px;}
+.footer{
+	background:black;
+	color:white;
+	font-family:pristina;
+text-align:center;
+margin-top:300px;}
+	.form-inline{background:grey;
+	width:400px;
+	border-radius:10px;}
+	.form-group{
+		padding:10px 5px 5px 9px;
+		font-family:pristina;
+		font-size:23px;
+	}
+	.form-group input[type="text"]{
+	width:150px;}
+	.form-group input[type="email"]{
+	width:150px;}
+	.form-group input[type="password"]{
+	width:150px;}
+	.sidebar{
+margin-left:200px;
+font-size:20px;}
+.footer{
+border-radius:20px;
+
+}
+.about{
+margin-left:-750px;
+font-size:30px;}

@@ -74,7 +74,8 @@ Where as Shoaib was much in photography.</br>.
 <a href="https://www.instagram.com/chinarkashmir"><i class="fa fa-instagram"></i></a>
 <a href=""><i class="fa fa-google-plus"></i></a>
 <a href="https://www.youtube.com/chinarkashmir"><i class="fa fa-youtube"></i></a>
-</p></div>
+</p>
+</div>
 <div id="slideshow">
 <img src="k2.jpg" id="chinar" height="600px" width="1000px"/>
 </div>

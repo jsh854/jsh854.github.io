@@ -67,6 +67,7 @@ The Brand has been developed by Two youngsters namely <h3>Sheikh Salman</h3>
 and <b>Shoaib kadla</b>.
 They are extremely passionate about Music Espetially EDM.
 There journey started about 2 months back..
+you can Follow them here.
 <a href="http://www.fb.com/chinarkashmir"><i class="fa fa-facebook"></i></a>
 <a href="http://www.instagram.com/chinarkashmir"><i class="fa fa-instagram"></i></a>
 <a href=""><i class="fa fa-google-plus"></i></a>
@@ -77,11 +78,6 @@ There journey started about 2 months back..
 </div>
 </div>
 <div id="form">
-<form>
-<h2>subscribe to our latest uploads</h2>
-<input type="text" id="email" placeholder="Email"/>
-<button class="btn btn-success">Submit</button>
-</form>
 </div>
 <div id="footer">
 <h3>follow us</h3>

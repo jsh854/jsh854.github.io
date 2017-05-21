@@ -77,8 +77,6 @@ you can Follow them here.
 <img src="k2.jpg" id="chinar" height="600px" width="1000px"/>
 </div>
 </div>
-<div id="form">
-</div>
 <div id="footer">
 <h3>follow us</h3>
 <a href="www.facebook.com/chinarkashmir"><i class="fa fa-facebook fa-md"></i>www.fb.com/chinarkashmir</a>

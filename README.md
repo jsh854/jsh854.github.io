@@ -70,10 +70,10 @@ and <h4>Shoaib kadla</h4>.
 They both have learned extremely fast and are growing with their beautiful and amazing production.
 Sheikh salman has a bit of music background . He started in 2013 as a guitarist soon gasped hold of it and mastered .
 Where as Shoaib was much in photography.</br>.
-<a href=""><i class="fa fa-facebook"></i></a>
-<a href=""><i class="fa fa-instagram"></i></a>
+<a href="https://www.facebook.com/chinarkashmir"><i class="fa fa-facebook"></i></a>
+<a href="https://www.instagram.com/chinarkashmir"><i class="fa fa-instagram"></i></a>
 <a href=""><i class="fa fa-google-plus"></i></a>
-<a href=""><i class="fa fa-youtube"></i></a>
+<a href="https://www.youtube.com/chinarkashmir"><i class="fa fa-youtube"></i></a>
 </p></div>
 <div id="slideshow">
 <img src="k2.jpg" id="chinar" height="600px" width="1000px"/>

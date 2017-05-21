@@ -85,7 +85,7 @@ Where as Shoaib was much in photography.</br>.
 </form>
 </div>
 <div id="footer">
-<h3><b>follow us<b></h3>
+<h3>follow us</h3>
 <a href="www.facebook.com/chinarkashmir"><i class="fa fa-facebook fa-md"></i>www.fb.com/chinarkashmir</a>
 <a href="www.instagram.com/chinarlashmir"><i class="fa fa-instagram"></i>www.instagram.com/chinarkashmir</a>
 <a href="www.youtube.com/chinarkashmir"><i class="fa fa-youtube"></i>www.youtube.com/chinarkashmir</a>

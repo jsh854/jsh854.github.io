@@ -34,8 +34,9 @@ background:grey;}
 #footer{
 background:black;
 color:white;
-height:90px;
-margin-top:400px;
+height:30px;
+text-align:center;
+margin-top:300px;
 margin-bottom:20px;}
 #footer a:hover{
 color:green;
@@ -75,11 +76,11 @@ padding:8px;}
 <p><h1>Chinar kashmir</h1>is a new name of Music in kashmir.
 The Brand has been developed by Two youngsters namely <b>Sheikh Salman</b> and <b>Shoaib kadla</b>
 They are extremely passionate about Music Especially EDM.
-You can also follow them here.
-<a href=""><i class="fa fa-facebook"></i></a>
-<a href=""><i class="fa fa-instagram"></i></a>
-<a href=""><i class="fa fa-google-plus"></i></a>
-<a href=""><i class="fa fa-youtube"></i></a>
+<h3>You can also follow them here</h3>.
+<a href=""><i class="fa fa-facebook fa-lg"></i></a>
+<a href=""><i class="fa fa-instagram fa-lg"></i></a>
+<a href=""><i class="fa fa-google-plus fa-lg"></i></a>
+<a href=""><i class="fa fa-youtube fa-lg"></i></a>
 </div>
 <div id="slideshow">
 <img src="k2.jpg" id="chinar" height="400px" width="1000px"/>
@@ -88,16 +89,13 @@ You can also follow them here.
 </div>
 <div id="form">
 <form>
-<h2>subscribe to our latest uploads</h2>
-<a href=""><i class="fa fa-facebook"></i></a>
-<a href=""><i class="fa fa-instagram"></i></a>
+<h2>Download our latest track</h2>
+<h3>roshwala-by chinarkashmir</h3>
+<a href=""><button class="btn btn-dafault btn-lg">Download</button></a>
 </form>
 </div>
 <div id="footer">
-<h3>follow us</h3>
-<a href="www.facebook.com/chinarkashmir"><i class="fa fa-facebook fa-md"></i>www.fb.com/chinarkashmir</a>
-<a href="www.instagram.com/chinarlashmir"><i class="fa fa-instagram"></i>www.instagram.com/chinarkashmir</a>
-<a href="www.youtube.com/chinarkashmir"><i class="fa fa-youtube"></i>www.youtube.com/chinarkashmir</a>
+<h3>&copy;chinarkashmir-2017</h3>
 </div>
 <script src="chinar.js"></script>
 </body>

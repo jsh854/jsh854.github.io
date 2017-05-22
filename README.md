@@ -75,12 +75,12 @@ padding:8px;}
 <p><h1>Chinar kashmir</h1>is a new name of Music in kashmir.
 The Brand has been developed by Two youngsters namely <b>Sheikh Salman</b> and <b>Shoaib kadla</b>
 They are extremely passionate about Music Especially EDM.
-You can also follow them here.</br>.
+You can also follow them here.
 <a href=""><i class="fa fa-facebook"></i></a>
 <a href=""><i class="fa fa-instagram"></i></a>
 <a href=""><i class="fa fa-google-plus"></i></a>
 <a href=""><i class="fa fa-youtube"></i></a>
-</p></div>
+</div>
 <div id="slideshow">
 <img src="k2.jpg" id="chinar" height="400px" width="1000px"/>
 </div>
@@ -94,7 +94,7 @@ You can also follow them here.</br>.
 </form>
 </div>
 <div id="footer">
-<h3><b>follow us<b></h3>
+<h3>follow us</h3>
 <a href="www.facebook.com/chinarkashmir"><i class="fa fa-facebook fa-md"></i>www.fb.com/chinarkashmir</a>
 <a href="www.instagram.com/chinarlashmir"><i class="fa fa-instagram"></i>www.instagram.com/chinarkashmir</a>
 <a href="www.youtube.com/chinarkashmir"><i class="fa fa-youtube"></i>www.youtube.com/chinarkashmir</a>

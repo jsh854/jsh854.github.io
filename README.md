@@ -73,7 +73,7 @@ padding:8px;}
 </nav></div>
 <div class="container" id="cont">
 <img src="Salu Whatsapp 20170509_225241.jpg" height="120px" width="120px" id="pix"/>
-<p><h1>Chinar kashmir</h1>is a new name of Music in kashmir.
+<h1>Chinar kashmir</h1>is a new name of Music in kashmir.
 The Brand has been developed by Two youngsters namely <b>Sheikh Salman</b> and <b>Shoaib kadla</b>
 They are extremely passionate about Music Especially EDM.
 <h3>You can also follow them here</h3>.
